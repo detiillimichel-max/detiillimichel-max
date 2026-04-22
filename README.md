@@ -18,36 +18,30 @@
 
 <br>
 
-<p align="center">
-  <img src="Screenshot_20260421-235357-Moto App Launcher.png" width="80%" alt="OIO ONE Principal" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.5);">
-</p>
-
-<br>
-
 <table align="center" style="border: none;">
   <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <img src="Screenshot_20260421-235437-Moto App Launcher.png" width="100%"><br>
-      <b>Menu Orbital</b>
+    <td align="center" style="border: none; vertical-align: top;">
+      <img src="chat.png" width="100%" style="border-radius: 10px;"><br>
+      <br><b>Chat em tempo real com fotos e áudios</b>
     </td>
-    <td align="center" style="border: none;">
-      <img src="Screenshot_20260421-235457-Moto App Launcher.png" width="100%"><br>
-      <b>Chat Integrado</b>
+    <td align="center" style="border: none; vertical-align: top;">
+      <img src="videos.png" width="100%" style="border-radius: 10px;"><br>
+      <br><b>Vídeos</b>
     </td>
-    <td align="center" style="border: none;">
-      <img src="Screenshot_20260421-235602-Moto App Launcher.png" width="100%"><br>
-      <b>Dark Mode</b>
+    <td align="center" style="border: none; vertical-align: top;">
+      <img src="descobrir.png" width="100%" style="border-radius: 10px;"><br>
+      <br><b>Descobrir</b>
     </td>
-    <td align="center" style="border: none;">
-      <img src="Screenshot_20260421-235614-Moto App Launcher.png" width="100%"><br>
-      <b>Dashboard</b>
+    <td align="center" style="border: none; vertical-align: top;">
+      <img src="perfil.png" width="100%" style="border-radius: 10px;"><br>
+      <br><b>Perfil</b>
     </td>
   </tr>
 </table>
 
 <br>
 
-<h2 align="center">💼 Como funciona o Aluguer (SaaS)?</h2>
+<h2 align="center">💼 Como funciona o Aluguel (SaaS)?</h2>
 <p align="center">
-  Os meus sistemas são comercializados sob licença. Você não precisa de lidar com códigos ou configurações complexas: eu entrego o sistema a correr na nuvem, pronto para o seu uso corporativo, com segurança e manutenção garantidas. O acesso é exclusivo e gerido por assinatura.
+  Os meus sistemas são comercializados sob licença. Você não precisa de lidar com códigos ou configurações complexas: eu entrego o sistema rodando na nuvem, pronto para o seu uso corporativo, com segurança e manutenção garantidas. O acesso é exclusivo e gerenciado por assinatura.
 </p>
