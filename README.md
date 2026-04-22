@@ -11,7 +11,7 @@
 <p align="center">Plataforma SaaS com arquitetura modular, comunicações em tempo real e interface Orbital.</p>
 
 <p align="center">
-  🚀 <b><a href="https://oio-fam.vercel.app">Ver Demo</a></b> &nbsp;•&nbsp;
+  🚀 <b><a href="https://oio-fam.lovable.app/">Ver Demo</a></b> &nbsp;•&nbsp;
   💬 <b><a href="https://wa.me/5511974790494">WhatsApp</a></b> &nbsp;•&nbsp;
   📧 <b><a href="mailto:detiillimichel@gmail.com">Email</a></b>
 </p>
@@ -22,7 +22,7 @@
   <tr style="border: none;">
     <td align="center" style="border: none; vertical-align: top;">
       <img src="chat.png" width="100%" style="border-radius: 10px;"><br>
-      <br><b>Chat em tempo real com fotos e áudios</b>
+      <br><b>Chat em tempo real</b>
     </td>
     <td align="center" style="border: none; vertical-align: top;">
       <img src="videos.png" width="100%" style="border-radius: 10px;"><br>
@@ -34,7 +34,24 @@
     </td>
     <td align="center" style="border: none; vertical-align: top;">
       <img src="perfil.png" width="100%" style="border-radius: 10px;"><br>
-      <br><b>Perfil</b>
+      <br><b>Perfil Principal</b>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="center">✨ Detalhes do Perfil</h3>
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; vertical-align: top;">
+      <img src="1perfil.png" width="100%" style="border-radius: 10px;">
+    </td>
+    <td align="center" style="border: none; vertical-align: top;">
+      <img src="2perfil.png" width="100%" style="border-radius: 10px;">
+    </td>
+    <td align="center" style="border: none; vertical-align: top;">
+      <img src="3perfil.png" width="100%" style="border-radius: 10px;">
     </td>
   </tr>
 </table>
@@ -43,5 +60,5 @@
 
 <h2 align="center">💼 Como funciona o Aluguel (SaaS)?</h2>
 <p align="center">
-  Os meus sistemas são comercializados sob licença. Você não precisa de lidar com códigos ou configurações complexas: eu entrego o sistema rodando na nuvem, pronto para o seu uso corporativo, com segurança e manutenção garantidas. O acesso é exclusivo e gerenciado por assinatura.
+  Os meus sistemas são comercializados sob licença. Você não precisa lidar com códigos ou configurações complexas: eu entrego o sistema rodando na nuvem, pronto para o seu uso corporativo, com segurança e manutenção garantidas. O acesso é exclusivo e gerenciado por assinatura.
 </p>
