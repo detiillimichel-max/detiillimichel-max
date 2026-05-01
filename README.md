@@ -62,3 +62,22 @@
 <p align="center">
   Os meus sistemas são comercializados sob licença. Você não precisa lidar com códigos ou configurações complexas: eu entrego o sistema rodando na nuvem, pronto para o seu uso corporativo, com segurança e manutenção garantidas. O acesso é exclusivo e gerenciado por assinatura.
 </p>
+
+<br>
+
+<h2 align="center">📜 Estrutura de Licenciamento (Dual-License)</h2>
+
+<p align="center">
+  Este ecossistema opera sob um modelo rigoroso de licenciamento duplo para garantir a inovação aberta e a segurança corporativa:
+</p>
+
+<p align="center" style="max-width: 800px; margin: 0 auto; text-align: left;">
+  <b>1. Licença Comercial Privada:</b> A infraestrutura de back-end, gestão de rotas, bases de dados e a integração completa dos sistemas são estritamente proprietárias. São comercializadas exclusivamente no modelo SaaS (Software as a Service), assegurando estabilidade contínua sem que o cliente tenha de gerir ficheiros ou servidores.<br><br>
+  <b>2. Licença de Código Aberto:</b> Ferramentas modulares, elementos de interface gráfica e componentes partilhados publicamente neste repositório estão abrangidos pelo ficheiro <code>LICENSE</code> anexo. Podem ser estudados e implementados pela comunidade, mediante os termos lá definidos.
+</p>
+
+<br>
+
+<p align="center">
+  <i>© 2026 Michel. Todos os direitos reservados sobre a arquitetura estrutural e proprietária.</i>
+</p>
