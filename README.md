@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Glassmorphism-Premium-8A2BE2?style=for-the-badge" alt="Glassmorphism" />
 </p>
 
-<h3 align="center">O seu pensamento é o único limite. O design de luxo não.</h3>
+<h3 align="center">O seu pensamento é o único limite. O design de luxo .</h3>
 <p align="center">Plataforma SaaS com arquitetura modular, comunicações em tempo real e interface Orbital.</p>
 
 <p align="center">
