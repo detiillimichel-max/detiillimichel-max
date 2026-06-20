@@ -117,28 +117,38 @@
 
 <br>
 
-<h2 align="center">💼 Como funciona o Aluguel (SaaS)?</h2>
+<h2 align="center">💡 Diretrizes de Uso & Demonstração</h2>
 <p align="center">
-Os meus sistemas são comercializados sob licença. Você não precisa lidar com códigos ou configurações complexas: eu entrego o sistema rodando na nuvem, pronto para o seu uso corporativo, com segurança e manutenção garantidas. O acesso é exclusivo e gerenciado por assinatura.
+Sinta-se à vontade para explorar e interagir com o ecossistema publicamente:
+</p>
+<p align="center">
+  🎮 <b>Jogos Web:</b> Totalmente liberados e gratuitos para entretenimento e uso pessoal.<br>
+  💬 <b>Aplicativos de Mensagem:</b> Disponíveis para testes de interface, validação de recursos e avaliação da experiência do usuário.
+</p>
+
+<br>
+
+<h2 align="center">💼 Soluções Corporativas & Aluguel (SaaS)</h2>
+<p align="center">
+Para demandas comerciais, implantação em servidores dedicados de alta performance, customizações exclusivas da interface ou necessidade de expansão da volumetria de dados, entre em contato. Eu entrego o ecossistema rodando na nuvem, pronto para uso corporativo, com total segurança, manutenção e suporte garantidos sob assinatura.
 </p>
 
 <br>
 
 <h2 align="center">📜 Estrutura de Licenciamento (Dual-License)</h2>
 <p align="center">
-Este ecossistema opera sob um modelo rigoroso de licenciamento duplo para garantir a inovação aberta e a segurança corporativa:
+Este ecossistema opera sob um modelo de licenciamento duplo para garantir a transparência do código e a segurança dos modelos de negócios:
 </p>
 
 <p>
-<b>1. Licença Comercial Privada:</b> A infraestrutura de back-end, gestão de rotas, bases de dados e a integração completa dos sistemas são estritamente proprietárias. São comercializadas exclusivamente no modelo SaaS (Software as a Service), assegurando estabilidade contínua sem que o cliente tenha de gerir ficheiros ou servidores.
+<b>1. Licença Comercial Privada:</b> A infraestrutura de back-end, engines de sincronização, bases de dados estruturadas e rotas integradas são estritamente proprietárias. São comercializadas exclusivamente através do modelo SaaS, assegurando estabilidade sem a necessidade de gestão técnica por parte do cliente.
 </p>
 
 <p>
-<b>2. Licença de Código Aberto:</b> Ferramentas modulares, elementos de interface gráfica e componentes partilhados publicamente neste repositório estão abrangidos pelo ficheiro <code>LICENSE</code> anexo. Podem ser estudados e implementados pela comunidade, mediante os termos lá definidos.
+<b>2. Licença de Código Aberto:</b> Componentes de interface visual compartilhados publicamente e utilitários modulares estão protegidos sob os termos do arquivo <code>LICENSE</code> anexo neste repositório para fins de estudo e contribuição da comunidade.
 </p>
 
 <br>
 <p align="center">
 <i>© 2026 Michel. Todos os direitos reservados sobre a arquitetura estrutural e proprietária.</i>
 </p>
-
