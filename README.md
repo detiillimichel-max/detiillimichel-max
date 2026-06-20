@@ -11,9 +11,9 @@
 <p align="center">Plataforma SaaS com arquitetura modular, comunicações em tempo real e interface Orbital.</p>
 
 <p align="center">
-  🚀 <b><a href="https://oio-fam.lovable.app/">Ver Demo</a></b> &nbsp;•&nbsp;
-  💬 <b><a href="https://wa.me/5511974790494">WhatsApp</a></b> &nbsp;•&nbsp;
-  📧 <b><a href="mailto:detiillimichel@gmail.com">Email</a></b>
+  🚀 <b><a href="https://oio-fam.lovable.app/">Ver Demo</a></b> &nbsp;&nbsp;
+  💬 <b><a href="https://wa.me/5511974790494">WhatsApp</a></b> &nbsp;&nbsp;
+  ✉️ <b><a href="mailto:detiillimichel@gmail.com">Email</a></b>
 </p>
 
 <br>
@@ -58,26 +58,87 @@
 
 <br>
 
+<h2 align="center">📱 Ecossistema de Aplicativos Móveis</h2>
+<p align="center">Aplicações modulares prontas para produção e otimizadas para navegadores mobile:</p>
+
+* **Vibe Mensagens:** [vibe-mensagens.vercel.app](https://vibe-mensagens.vercel.app) — Mensageiro privativo de alta performance.
+* **OIO-FAM / OIO ONE:** [oio-fam.lovable.app](https://oio-fam.lovable.app/) — Rede social PWA modular com engines de chat e mídia.
+* **Telégrafo Chat:** [telegrafo-chat.vercel.app](https://telegrafo-chat.vercel.app/) — Engine de comunicação rápida e segura.
+* **Vibe Leitura (Hidrômetro):** [vibe-leitura.vercel.app](https://vibe-leitura.vercel.app/) / [Leiturista App](https://detiillimichel-max.github.io/Leiturista-/) — Gestão de leituras e consumo de água.
+* **Quiz Pergunta:** [quiz-pergunta.vercel.app](https://quiz-pergunta.vercel.app) — Plataforma dinâmica de perguntas e respostas.
+
+<br>
+
+<h2 align="center">🎮 Hub de Jogos Web (Modulares)</h2>
+<p align="center">Jogos leves focados em interatividade, lógica e performance fluida:</p>
+
+### 🧩 Desafios & Tabuleiros
+* [Central Jogos - Elo Palavras](https://detiillimichel-max.github.io/central-jogos/elo-palavras/)
+* [Jogos Sonnet](https://detiillimichel-max.github.io/Jogos-Sonnet-Jogos/)
+* [Dama Xadrez](https://detiillimichel-max.github.io/dama-xadres/)
+* [Liga Palavras](https://detiillimichel-max.github.io/liga-palavras/)
+* [Letroso Cross](https://detiillimichel-max.github.io/letroso-cross/)
+* [Domina](https://detiillimichel-max.github.io/Domina/)
+* [Tabuleiro Move](https://detiillimichel-max.github.io/tabuleiro-move/)
+* [Tabuleiro Jogos](https://detiillimichel-max.github.io/tabuleiro-jogos/)
+
+### 🕹️ Arcade & Ação
+* [Arcade Hub](https://detiillimichel-max.github.io/ARCADE-HUB/)
+* [Asteroide no Espaço](https://detiillimichel-max.github.io/asteroide-no-espaco/)
+* [Doodle Pulo](https://detiillimichel-max.github.io/Doodle-Pulo/)
+* [Encaixa Peças](https://detiillimichel-max.github.io/encaixa-pe-as/)
+* [Mariu Cidade](https://detiillimichel-max.github.io/Mariu-cidade/)
+* [Trilha Serpentina Numerada](https://detiillimichel-max.github.io/trilha-serpentina-numerada/)
+
+### 🧠 Raciocínio & Charadas
+* [Quiz Master](https://detiillimichel-max.github.io/Quiz-Master/)
+* [Charada Deep Game](https://detiillimichel-max.github.io/Charada-deep-game/)
+* [Grow Charada](https://detiillimichel-max.github.io/Grow-Charada/)
+* [Adivinha Emoji](https://detiillimichel-max.github.io/AdivinhaEmoji/)
+* [Ache a Diferente](https://detiillimichel-max.github.io/ache-a-diferente/)
+* [Labirinto Premiado](https://detiillimichel-max.github.io/labirinto-premiado/)
+* [Labirinto Divertido](https://detiillimichel-max.github.io/labirinto-divertido/)
+* [Tubo Becker](https://detiillimichel-max.github.io/tubo-becker/)
+* [Memória Emojis](https://detiillimichel-max.github.io/memoria-emojis/)
+* [Figurinhas Game](https://detiillimichel-max.github.io/figurinhas-game/)
+* [Capcha Jogos Depp](https://detiillimichel-max.github.io/Capchajogos-depp/)
+* [Raiz Truco](https://detiillimichel-max.github.io/Raiz-truco/)
+
+<br>
+
+<h2 align="center">🛠️ Utilitários & Ferramentas</h2>
+<p align="center">Aplicações construídas para resolver tarefas e produtividade diária:</p>
+
+* **Nota Adesiva:** [Acessar App](https://detiillimichel-max.github.io/Nota-adesiva/)
+* **Nota Adesiva Corrida:** [Acessar App](https://detiillimichel-max.github.io/Nota-Adesiva-Corrida/)
+* **Rádio América:** [Ouvir Web Rádio](https://detiillimichel-max.github.io/R-dio-America/)
+* **Calculadora Simples:** [Acessar Ferramenta](https://detiillimichel-max.github.io/Calculadora-simples/)
+* **Calculadora Ninja:** [Acessar Ferramenta](https://detiillimichel-max.github.io/calculadora-ninja/)
+
+<br>
+
 <h2 align="center">💼 Como funciona o Aluguel (SaaS)?</h2>
 <p align="center">
-  Os meus sistemas são comercializados sob licença. Você não precisa lidar com códigos ou configurações complexas: eu entrego o sistema rodando na nuvem, pronto para o seu uso corporativo, com segurança e manutenção garantidas. O acesso é exclusivo e gerenciado por assinatura.
+Os meus sistemas são comercializados sob licença. Você não precisa lidar com códigos ou configurações complexas: eu entrego o sistema rodando na nuvem, pronto para o seu uso corporativo, com segurança e manutenção garantidas. O acesso é exclusivo e gerenciado por assinatura.
 </p>
 
 <br>
 
 <h2 align="center">📜 Estrutura de Licenciamento (Dual-License)</h2>
-
 <p align="center">
-  Este ecossistema opera sob um modelo rigoroso de licenciamento duplo para garantir a inovação aberta e a segurança corporativa:
+Este ecossistema opera sob um modelo rigoroso de licenciamento duplo para garantir a inovação aberta e a segurança corporativa:
 </p>
 
-<p align="center" style="max-width: 800px; margin: 0 auto; text-align: left;">
-  <b>1. Licença Comercial Privada:</b> A infraestrutura de back-end, gestão de rotas, bases de dados e a integração completa dos sistemas são estritamente proprietárias. São comercializadas exclusivamente no modelo SaaS (Software as a Service), assegurando estabilidade contínua sem que o cliente tenha de gerir ficheiros ou servidores.<br><br>
-  <b>2. Licença de Código Aberto:</b> Ferramentas modulares, elementos de interface gráfica e componentes partilhados publicamente neste repositório estão abrangidos pelo ficheiro <code>LICENSE</code> anexo. Podem ser estudados e implementados pela comunidade, mediante os termos lá definidos.
+<p>
+<b>1. Licença Comercial Privada:</b> A infraestrutura de back-end, gestão de rotas, bases de dados e a integração completa dos sistemas são estritamente proprietárias. São comercializadas exclusivamente no modelo SaaS (Software as a Service), assegurando estabilidade contínua sem que o cliente tenha de gerir ficheiros ou servidores.
+</p>
+
+<p>
+<b>2. Licença de Código Aberto:</b> Ferramentas modulares, elementos de interface gráfica e componentes partilhados publicamente neste repositório estão abrangidos pelo ficheiro <code>LICENSE</code> anexo. Podem ser estudados e implementados pela comunidade, mediante os termos lá definidos.
 </p>
 
 <br>
-
 <p align="center">
-  <i>© 2026 Michel. Todos os direitos reservados sobre a arquitetura estrutural e proprietária.</i>
+<i>© 2026 Michel. Todos os direitos reservados sobre a arquitetura estrutural e proprietária.</i>
 </p>
+
