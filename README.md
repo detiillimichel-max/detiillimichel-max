@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Glassmorphism-Premium-8A2BE2?style=for-the-badge" alt="Glassmorphism" />
 </p>
 
-<h3 align="center">O seu pensamento é o único limite. O design de luxo .</h3>
+<h3 align="center">O seu pensamento é o único limite. O design de luxo não tem barreiras.</h3>
 <p align="center">Plataforma SaaS com arquitetura modular, comunicações em tempo real e interface Orbital.</p>
 
 <p align="center">
@@ -119,18 +119,18 @@
 
 <h2 align="center">💡 Diretrizes de Uso & Demonstração</h2>
 <p align="center">
-Sinta-se à vontade para explorar e interagir com o ecossistema publicamente:
+O ecossistema público está disponível para exploração e validação sob as seguintes condições:
 </p>
 <p align="center">
-  🎮 <b>Jogos Web:</b> Totalmente liberados e gratuitos para entretenimento e uso pessoal.<br>
-  💬 <b>Aplicativos de Mensagem:</b> Disponíveis para testes de interface, validação de recursos e avaliação da experiência do usuário.
+  🎮 <b>Hub de Jogos:</b> Totalmente liberados e gratuitos para <b>uso pessoal e até familiar</b>, como demonstração de lógica e interatividade.<br>
+  📱 <b>Aplicativos de Mensagem:</b> Disponíveis para <b>testes e uso pessoal</b>, permitindo avaliar o desempenho das engines e a fluidez das interfaces.
 </p>
 
 <br>
 
-<h2 align="center">💼 Soluções Corporativas & Aluguel (SaaS)</h2>
+<h2 align="center">💼 Soluções Corporativas & Larga Escala (SaaS)</h2>
 <p align="center">
-Para demandas comerciais, implantação em servidores dedicados de alta performance, customizações exclusivas da interface ou necessidade de expansão da volumetria de dados, entre em contato. Eu entrego o ecossistema rodando na nuvem, pronto para uso corporativo, com total segurança, manutenção e suporte garantidos sob assinatura.
+Para demandas comerciais, <b>larga escala de uso</b>, implantação em servidores empresariais dedicados ou customizações sob medida, o modelo aplicável é o de <b>Aluguel (SaaS)</b>. Eu entrego o sistema robusto e pronto na nuvem, garantindo segurança corporativa, manutenção contínua e suporte técnico especializado sob assinatura.
 </p>
 
 <br>
